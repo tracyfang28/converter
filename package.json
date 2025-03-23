@@ -2,6 +2,7 @@
   "name": "converter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tracyfang28.github.io/converter/",
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "@testing-library/dom": "^10.4.0",
